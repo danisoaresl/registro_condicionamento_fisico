@@ -1,5 +1,5 @@
 <div align="center">
-<h2>🏋️‍♀️Formulário de Anamnese para academia🏋️‍♀️</h2>
+
 <h2>Com conexão de banco de dados MySQL</h2>
  
   
